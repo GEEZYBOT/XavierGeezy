@@ -12,11 +12,11 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['AzzBot-MD']
-global.namaowner = ['YahyaGanzz']
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
-global.packname = 'AzzBot-MD'
+global.namabot = ['GeezyBotz']
+global.namaowner = ['Geezy']
+global.owner = ['6289529904752']
+global.premium = ['6289529904752']
+global.packname = 'GeezyBotz'
 global.author = 'WhatsApp•Bot'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -35,7 +35,7 @@ global.mess = {
 //Kalo Ngasih Limit Jangan Dikit Lah Bng
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 999
 }
 global.thumb = fs.readFileSync('./lib/xavi.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
